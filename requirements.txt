@@ -1,0 +1,26 @@
+# Web框架
+flask==2.3.3
+flask-cors==4.0.0
+flask-jwt-extended==4.5.2
+
+# 数据库
+psycopg2-binary==2.9.9
+
+# 图像处理
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.1
+
+# YOLO
+ultralytics==8.0.200
+torch==2.0.1
+torchvision==0.15.2
+
+# 车牌识别
+hyperlpr3==1.0.6
+
+# 工具
+python-dotenv==1.0.0
+requests==2.31.0
+tqdm==4.66.1
